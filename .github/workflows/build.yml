@@ -9,7 +9,7 @@ on:
     - cron: '0 3 * * 1'
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -18,32 +18,60 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Run build.py
+      - name: Build site
         run: python build.py
+
+      - name: Wipe all old SaneBox and legacy files from repo root
+        run: |
+          echo "=== Removing all old files from repo root ==="
+          find . -maxdepth 1 -type f \
+            ! -name 'build.py' \
+            ! -name '.gitignore' \
+            ! -name 'README.md' \
+            -delete
+
+          echo "=== Removing old folders ==="
+          for dir in public scripts well-known node_modules; do
+            [ -d "$dir" ] && rm -rf "$dir" && echo "Removed: $dir"
+          done
+
+          echo "=== Copying dist/ to repo root ==="
+          cp -r dist/. .
+          rm -rf dist/
+
+          echo "=== Done. Root files: ==="
+          ls -1 | head -30
+
+      - name: Commit cleaned repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "NutriStem v3 deploy — SaneBox files removed [$(date -u '+%Y-%m-%d')]"
+          git push
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: .
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
