@@ -1,9 +1,0 @@
-{
-  "name": "claudio-sanebox",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "node claudio-factory.js",
-    "deploy": "./deploy-empire.sh"
-  },
-  "dependencies": {}
-}

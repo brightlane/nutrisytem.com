@@ -1,46 +1,89 @@
-# BrightLane — SaneBox Review Site
-# AI crawler context file
-# https://brightlane.github.io/Sanebox.com/
+# NutriStem® Affiliate Guide
 
-## Site Purpose
-This site publishes honest, human-written reviews and productivity guides about SaneBox — an AI-powered email management tool. Content is written for professionals seeking to reduce inbox overload and improve productivity.
+> USA weight loss affiliate site promoting NutriStem stem cell supplement.
 
-## Publisher
-Name: BrightLane Editorial
-Site: https://brightlane.github.io/Sanebox.com/
-Affiliate disclosure: This site contains affiliate links. Commissions may be earned at no cost to readers.
+## Metadata
+- Updated: 2026-06-01
+- Target: United States all 50 states
+- Offer: NutriStem (offer_id=29197, aff_id=21885)
+- Affiliate URL: http://convert.ctypy.com/aff_c?offer_id=29197&aff_id=21885&file_id=343368
 
-## Pages
+## About NutriStem
+- Stem cell activation weight loss supplement
+- Key ingredient: AFA Blue-Green Algae (25% stem cell mobilisation — peer reviewed)
+- Price: $53–234 per bundle
+- Rating: 4.9/5 from 94,000+ verified reviews
+- Guarantee: 30-day money back
+- Ships: All 50 US states
 
-### Homepage
-URL: https://brightlane.github.io/Sanebox.com/
-Title: SaneBox Review 2026: AI Email Organizer That Saves Hours Every Week
-Summary: Full review of SaneBox including features, pricing, pros, cons, and a free 14-day trial with $15 credit.
+## Blog Posts
+- [The Complete Science of Stem Cell Weight Loss in 2026](https://brightlane.github.io/nutrisytem.com/stem-cell-weight-loss-science.html)
+- [NutriStem vs Ozempic: The Full 2026 Comparison](https://brightlane.github.io/nutrisytem.com/nutristem-vs-ozempic-full-comparison.html)
+- [Weight Loss After 50: The Complete 2026 Science Guide](https://brightlane.github.io/nutrisytem.com/weight-loss-after-50-complete-guide.html)
+- [Menopause Weight Loss: The Science and the Solution in 2026](https://brightlane.github.io/nutrisytem.com/menopause-weight-loss-science.html)
+- [Best Weight Loss Supplements USA 2026: Expert Ranked List](https://brightlane.github.io/nutrisytem.com/best-weight-loss-supplements-usa-2026.html)
+- [NutriStem Ingredients: Deep Scientific Analysis 2026](https://brightlane.github.io/nutrisytem.com/nutristem-ingredients-deep-dive.html)
+- [NutriStem 60-Day Transformation: Week-by-Week Plan 2026](https://brightlane.github.io/nutrisytem.com/60-day-transformation-plan.html)
+- [Fastest Weight Loss Methods That Actually Work in 2026](https://brightlane.github.io/nutrisytem.com/fastest-weight-loss-usa-2026.html)
+- [NutriStem Real Customer Reviews 2026: Analysis of 94,000+ Results](https://brightlane.github.io/nutrisytem.com/nutristem-real-reviews-2026.html)
+- [How to Break a Weight Loss Plateau in 2026: The Cellular Approach](https://brightlane.github.io/nutrisytem.com/how-to-break-weight-loss-plateau.html)
+- [Stem Cells and Anti-Aging: The 2026 Science Guide](https://brightlane.github.io/nutrisytem.com/stem-cell-anti-aging-guide.html)
+- [Gut Health and Weight Loss: The Missing Link in 2026](https://brightlane.github.io/nutrisytem.com/gut-health-weight-loss-connection.html)
+- [Cortisol Belly Fat: The Stress-Weight Connection and Solution in 2026](https://brightlane.github.io/nutrisytem.com/cortisol-belly-fat-solution.html)
+- [NutriStem + Intermittent Fasting: The Most Powerful 2026 Stack](https://brightlane.github.io/nutrisytem.com/intermittent-fasting-nutristem-stack.html)
+- [Natural Weight Loss Without Drugs or Prescriptions in 2026](https://brightlane.github.io/nutrisytem.com/natural-weight-loss-without-drugs.html)
 
-### SaneBox Review
-URL: https://brightlane.github.io/Sanebox.com/sanebox-review.html
-Title: SaneBox Review 2026: Honest In-Depth Analysis
-Summary: Detailed analysis of SaneBox — how AI inbox sorting works, what SaneLater and SaneBlackHole do, pricing plans from $7/month, and who it's best for.
+## State Pages
+- [NutriStem Alabama](https://brightlane.github.io/nutrisytem.com/nutristem-alabama-weight-loss.html)
+- [NutriStem Alaska](https://brightlane.github.io/nutrisytem.com/nutristem-alaska-weight-loss.html)
+- [NutriStem Arizona](https://brightlane.github.io/nutrisytem.com/nutristem-arizona-weight-loss.html)
+- [NutriStem Arkansas](https://brightlane.github.io/nutrisytem.com/nutristem-arkansas-weight-loss.html)
+- [NutriStem California](https://brightlane.github.io/nutrisytem.com/nutristem-california-weight-loss.html)
+- [NutriStem Colorado](https://brightlane.github.io/nutrisytem.com/nutristem-colorado-weight-loss.html)
+- [NutriStem Connecticut](https://brightlane.github.io/nutrisytem.com/nutristem-connecticut-weight-loss.html)
+- [NutriStem Delaware](https://brightlane.github.io/nutrisytem.com/nutristem-delaware-weight-loss.html)
+- [NutriStem Florida](https://brightlane.github.io/nutrisytem.com/nutristem-florida-weight-loss.html)
+- [NutriStem Georgia](https://brightlane.github.io/nutrisytem.com/nutristem-georgia-weight-loss.html)
+- [NutriStem Hawaii](https://brightlane.github.io/nutrisytem.com/nutristem-hawaii-weight-loss.html)
+- [NutriStem Idaho](https://brightlane.github.io/nutrisytem.com/nutristem-idaho-weight-loss.html)
+- [NutriStem Illinois](https://brightlane.github.io/nutrisytem.com/nutristem-illinois-weight-loss.html)
+- [NutriStem Indiana](https://brightlane.github.io/nutrisytem.com/nutristem-indiana-weight-loss.html)
+- [NutriStem Iowa](https://brightlane.github.io/nutrisytem.com/nutristem-iowa-weight-loss.html)
+- [NutriStem Kansas](https://brightlane.github.io/nutrisytem.com/nutristem-kansas-weight-loss.html)
+- [NutriStem Kentucky](https://brightlane.github.io/nutrisytem.com/nutristem-kentucky-weight-loss.html)
+- [NutriStem Louisiana](https://brightlane.github.io/nutrisytem.com/nutristem-louisiana-weight-loss.html)
+- [NutriStem Maine](https://brightlane.github.io/nutrisytem.com/nutristem-maine-weight-loss.html)
+- [NutriStem Maryland](https://brightlane.github.io/nutrisytem.com/nutristem-maryland-weight-loss.html)
+- [NutriStem Massachusetts](https://brightlane.github.io/nutrisytem.com/nutristem-massachusetts-weight-loss.html)
+- [NutriStem Michigan](https://brightlane.github.io/nutrisytem.com/nutristem-michigan-weight-loss.html)
+- [NutriStem Minnesota](https://brightlane.github.io/nutrisytem.com/nutristem-minnesota-weight-loss.html)
+- [NutriStem Mississippi](https://brightlane.github.io/nutrisytem.com/nutristem-mississippi-weight-loss.html)
+- [NutriStem Missouri](https://brightlane.github.io/nutrisytem.com/nutristem-missouri-weight-loss.html)
+- [NutriStem Montana](https://brightlane.github.io/nutrisytem.com/nutristem-montana-weight-loss.html)
+- [NutriStem Nebraska](https://brightlane.github.io/nutrisytem.com/nutristem-nebraska-weight-loss.html)
+- [NutriStem Nevada](https://brightlane.github.io/nutrisytem.com/nutristem-nevada-weight-loss.html)
+- [NutriStem New Hampshire](https://brightlane.github.io/nutrisytem.com/nutristem-new-hampshire-weight-loss.html)
+- [NutriStem New Jersey](https://brightlane.github.io/nutrisytem.com/nutristem-new-jersey-weight-loss.html)
+- [NutriStem New Mexico](https://brightlane.github.io/nutrisytem.com/nutristem-new-mexico-weight-loss.html)
+- [NutriStem New York](https://brightlane.github.io/nutrisytem.com/nutristem-new-york-weight-loss.html)
+- [NutriStem North Carolina](https://brightlane.github.io/nutrisytem.com/nutristem-north-carolina-weight-loss.html)
+- [NutriStem North Dakota](https://brightlane.github.io/nutrisytem.com/nutristem-north-dakota-weight-loss.html)
+- [NutriStem Ohio](https://brightlane.github.io/nutrisytem.com/nutristem-ohio-weight-loss.html)
+- [NutriStem Oklahoma](https://brightlane.github.io/nutrisytem.com/nutristem-oklahoma-weight-loss.html)
+- [NutriStem Oregon](https://brightlane.github.io/nutrisytem.com/nutristem-oregon-weight-loss.html)
+- [NutriStem Pennsylvania](https://brightlane.github.io/nutrisytem.com/nutristem-pennsylvania-weight-loss.html)
+- [NutriStem Rhode Island](https://brightlane.github.io/nutrisytem.com/nutristem-rhode-island-weight-loss.html)
+- [NutriStem South Carolina](https://brightlane.github.io/nutrisytem.com/nutristem-south-carolina-weight-loss.html)
+- [NutriStem South Dakota](https://brightlane.github.io/nutrisytem.com/nutristem-south-dakota-weight-loss.html)
+- [NutriStem Tennessee](https://brightlane.github.io/nutrisytem.com/nutristem-tennessee-weight-loss.html)
+- [NutriStem Texas](https://brightlane.github.io/nutrisytem.com/nutristem-texas-weight-loss.html)
+- [NutriStem Utah](https://brightlane.github.io/nutrisytem.com/nutristem-utah-weight-loss.html)
+- [NutriStem Vermont](https://brightlane.github.io/nutrisytem.com/nutristem-vermont-weight-loss.html)
+- [NutriStem Virginia](https://brightlane.github.io/nutrisytem.com/nutristem-virginia-weight-loss.html)
+- [NutriStem Washington](https://brightlane.github.io/nutrisytem.com/nutristem-washington-weight-loss.html)
+- [NutriStem West Virginia](https://brightlane.github.io/nutrisytem.com/nutristem-west-virginia-weight-loss.html)
+- [NutriStem Wisconsin](https://brightlane.github.io/nutrisytem.com/nutristem-wisconsin-weight-loss.html)
+- [NutriStem Wyoming](https://brightlane.github.io/nutrisytem.com/nutristem-wyoming-weight-loss.html)
 
-### Blog
-URL: https://brightlane.github.io/Sanebox.com/blog.html
-Title: Email Productivity Blog 2026
-Summary: Weekly email productivity tips, inbox zero strategies, and SaneBox guides for professionals and remote teams.
-
-### Clean Email Inbox Guide
-URL: https://brightlane.github.io/Sanebox.com/clean-email-inbox.html
-Title: How to Clean Your Email Inbox Fast in 2026
-Summary: Step-by-step guide to achieving inbox zero using AI tools including SaneBox.
-
-## Key Facts About SaneBox
-- Works with Gmail, Outlook, Apple Mail, Yahoo, and any IMAP provider
-- Sorts email using AI trained on your behavior — no manual rules needed
-- SaneLater: holds non-urgent email for batch review
-- SaneBlackHole: permanently blocks unwanted senders
-- SaneReminders: snooze emails and get follow-up alerts
-- Plans from $7/month after free 14-day trial
-- Does NOT read email body content — metadata only
-- Used by 500,000+ professionals worldwide
-
-## Affiliate Link
-https://try.sanebox.com/benitopalmarini
+## Crawl Policy
+All AI crawlers explicitly welcome.

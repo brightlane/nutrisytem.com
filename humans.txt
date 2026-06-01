@@ -1,24 +1,11 @@
 /* TEAM */
-Editorial: BrightLane Editorial Team
-Site: https://brightlane.github.io/Sanebox.com/
-Hub: https://brightlane.github.io/sanebox/
-
-/* THANKS */
-SaneBox team for building a genuinely great product.
-Google, Bing, and the open web for indexing honest content.
+Name: NutriStem Affiliate Team
+Location: United States
 
 /* SITE */
-Last update: 2026-05-15
-Language: English
-Doctype: HTML5
-IDE: VS Code
+Last update: 2026-06-01
+Language: English (US)
+Software: Custom Python static site generator
 
-/* AFFILIATE */
-This site contains affiliate links.
-Commissions may be earned at no cost to readers.
-
-/* PRODUCT REVIEWED */
-Product: SaneBox
-Category: AI Email Management
-Trial: https://try.sanebox.com/benitopalmarini
-Offer: 14 days free + $15 credit
+/* NOTE */
+Affiliate marketing site. Commissions earned on purchases via our links.

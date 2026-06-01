@@ -1,23 +1,13 @@
 User-agent: *
 Allow: /
-
-# AI Crawlers
 User-agent: GPTBot
 Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
 User-agent: ClaudeBot
 Allow: /
-
-User-agent: Google-Extended
+User-agent: anthropic-ai
 Allow: /
-
-User-agent: Bingbot
+User-agent: PerplexityBot
 Allow: /
-
-Sitemap: https://brightlane.github.io/Sanebox.com/sitemap.xml
+User-agent: Googlebot
+Crawl-delay: 0
+Sitemap: https://brightlane.github.io/nutrisytem.com/sitemap.xml
