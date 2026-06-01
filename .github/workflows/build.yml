@@ -29,6 +29,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -63,9 +64,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add -A
-          git diff --staged --quiet || git commit -m "NutriStem v3 deploy — SaneBox files removed [$(date -u '+%Y-%m-%d')]"
-          git push
+          git diff --staged --quiet || git commit -m "NutriStem v3 deploy [$(date -u '+%Y-%m-%d')]"
+          git push origin main
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
